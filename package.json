@@ -1,6 +1,6 @@
 {
   "name": "svg2geojson-antecursor",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "description": "Converts an SVG file with added geo-referencing tags into one or more GeoJSON files.",
   "main": "lib/svg2geojson.js",
   "directories": {
