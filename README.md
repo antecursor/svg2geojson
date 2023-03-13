@@ -5,7 +5,7 @@ Converts an SVG file with added geo-referencing tags into one or more GeoJSON fi
 
 ## Installing
 
-`npm install svg2geojson`
+`npm install svg2geojson-nimrod`
 
 
 ## Geo-Referencing Tags
